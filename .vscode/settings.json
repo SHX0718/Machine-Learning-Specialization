@@ -1,4 +1,6 @@
 {
     "commentTranslate.hover.concise": true,
-    "commentTranslate.targetLanguage": "zh-CN"
+    "commentTranslate.targetLanguage": "zh-CN",
+    "commentTranslate.hover.content": false,
+    "commentTranslate.hover.enabled": false
 }
